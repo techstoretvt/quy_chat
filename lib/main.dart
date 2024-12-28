@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quy_chat/feature/presentasion/pages/sign-up.dart';
+import 'package:quy_chat/feature/auth/presentasion/pages/sign_up_screen.dart';
 
 void main() {
   runApp(const MyApp());
