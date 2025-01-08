@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:quy_chat/feature/auth/presentasion/pages/sign_up_screen.dart';
+import 'package:quy_chat/injection_container.dart';
 
 void main() {
+  init();
   runApp(const MyApp());
 }
 

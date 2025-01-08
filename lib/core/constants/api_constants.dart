@@ -1,3 +1,3 @@
 class ApiConstants {
-  static const String baseUrl = 'http://localhost:4000/api/';
+  static const String baseUrl = 'https://nestchatserver.onrender.com/api';
 }

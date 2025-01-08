@@ -4,6 +4,7 @@ class AppColors {
   // button
   static const Color buttonActiveColor = Colors.deepPurple;
   static const Color buttonDisabledColor = Colors.grey;
+  static const Color buttonErrorColor = Colors.red;
   static const Color textButtonActiveColor = Colors.white;
   static const Color textButtonDisabledColor = Colors.white;
 
