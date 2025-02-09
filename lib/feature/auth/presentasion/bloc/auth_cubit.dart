@@ -1,7 +1,7 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:quy_chat/core/errors/exceptions.dart';
 import 'package:quy_chat/feature/auth/domain/entities/user_entity.dart';
-import 'package:quy_chat/feature/auth/domain/usecases/sign_up.dart';
+import 'package:quy_chat/feature/auth/application/usecases/sign_up.dart';
 import 'package:quy_chat/feature/auth/presentasion/bloc/auth_state.dart';
 
 class AuthCubit extends Cubit<AuthState> {

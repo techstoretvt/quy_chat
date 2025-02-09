@@ -3,7 +3,7 @@ import 'package:quy_chat/feature/auth/data/datasources/remote/auth/auth_remote_d
 import 'package:quy_chat/feature/auth/data/datasources/remote/auth/auth_remote_datasource_impl.dart';
 import 'package:quy_chat/feature/auth/data/repositories/auth_repository.dart';
 import 'package:quy_chat/feature/auth/domain/repositories/auth_repository.dart';
-import 'package:quy_chat/feature/auth/domain/usecases/sign_up.dart';
+import 'package:quy_chat/feature/auth/application/usecases/sign_up.dart';
 import 'package:quy_chat/feature/auth/presentasion/bloc/auth_cubit.dart';
 import 'package:http/http.dart' as http;
 
